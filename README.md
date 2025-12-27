@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/694e1df5be04d9e99d35ab70?variant=dark" alt="roadmap.sh"/></a>
 <!--
 **Giza-Deminuit/Giza-Deminuit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
